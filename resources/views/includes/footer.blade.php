@@ -7,10 +7,10 @@
                 <div class="col-md-3 widget">
                     <h3 class="widget-title">Contact</h3>
                     <div class="widget-body">
-                        <p>+234 23 9873237<br>
+                        <p>+254 1234567<br>
                             <a href="mailto:#">some.email@somewhere.com</a><br>
                             <br>
-                            234 Hidden Pond Road, Ashland City, TN 37015
+                            Nairobi Kenya
                         </p>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
                             <a href="about">About</a> |
                             <a href="sidebar-right">Sidebar</a> |
                             <a href="contact">Contact</a> |
-                            <b><a href="signup">Sign up</a></b>
+                            <a href="signup">Sign up</a>
                         </p>
                     </div>
                 </div>
@@ -64,8 +64,7 @@
                 <div class="col-md-6 widget">
                     <div class="widget-body">
                         <p class="text-right">
-                            Copyright &copy; 2014, Your name. Designed by <a href="http://gettemplate.com/"
-                                rel="designer">gettemplate</a>
+                            Copyright &copy; 2021. Designed by Watson!
                         </p>
                     </div>
                 </div>

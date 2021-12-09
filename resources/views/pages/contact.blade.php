@@ -6,7 +6,7 @@
     <div class="container">
 
         <ol class="breadcrumb">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="home">Home</a></li>
             <li class="active">Contact</li>
         </ol>
 
@@ -61,11 +61,11 @@
                 <div class="widget">
                     <h4>Address</h4>
                     <address>
-                        2002 Holcombe Boulevard, Houston, TX 77030, USA
+                        Nairobi, Kenya
                     </address>
                     <h4>Phone:</h4>
                     <address>
-                        (713) 791-1414
+                        (254) 123-456-78
                     </address>
                 </div>
 
